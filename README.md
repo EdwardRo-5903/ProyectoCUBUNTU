@@ -11,7 +11,7 @@ y disponer de Visual Studio para el desarrollo y la compilación del código fue
 Pasos para su ejecución:
 
 Clonación del Repositorio:
-Clona el repositorio del Proyecto C desde el siguiente enlace: [enlace al repositorio].
+Clona el repositorio del Proyecto C desde el siguiente enlace: https://github.com/EdwardRo-5903/ProyectoCUBUNTU.git
 
 Configuración del Entorno:
 Asegúrate de tener instaladas las tecnologías mencionadas (Ubuntu, SSH y Visual Studio) antes de continuar.
